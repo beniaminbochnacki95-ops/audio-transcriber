@@ -23,7 +23,7 @@ The recordings this was built for contain client and candidate conversations. No
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/audio-transcriber.git
+git clone https://github.com/beniaminbochnacki95-ops/audio-transcriber.git
 cd audio-transcriber
 pip install -r requirements.txt
 cp config.example.json config.json
