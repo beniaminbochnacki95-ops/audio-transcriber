@@ -1,0 +1,24 @@
+# virtual environment
+.venv/
+venv/
+
+# recordings and transcripts stay local
+recordings/
+transcripts/
+*.mkv
+*.mp4
+*.wav
+*.mp3
+
+# local config with real speaker names
+config.json
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# editors
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "model": "large-v3-turbo",
+  "device": "auto",
+  "compute_type": "auto",
+  "language": null,
+  "beam_size": 5,
+  "vad_filter": true,
+  "speakers": ["caller1", "caller2"],
+  "output_format": "txt"
+}
